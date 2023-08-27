@@ -1,0 +1,56 @@
+
+section {
+   height: 500px;
+   background-color: #2B2730;
+   font-family: 'Playfair Display', serif;
+}
+li{ 
+    width: 100px;
+}
+
+.hero{
+    background-color:#2B2730 ;
+    height: 100vh;
+    color:#F4EEE0 ;
+    font-size: 20px;
+
+}
+footer{ 
+    height:500px;
+    background-color:#2B2730;
+}
+h1{
+    font-size: 90px;
+    color: #F4EEE0;
+    margin: 0;
+}
+p{
+    margin: 0;
+    font-size: 400;
+    font-style: italic;
+}
+.hero-area{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    margin-left: 200px;
+    
+}
+.hero-text{
+    margin-left: 300px;
+}
+.button{
+    margin-left: 10px;
+    border-radius: 30px;
+    margin-top: 50px;
+    height:30px;width:70px"
+  
+
+}
+.socials{
+    color: #F4EEE0;
+}
+.logo{
+    height: 80px;
+    margin: 30px;
+}
